@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-react-trening",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/app.js",
+    "build": "cd client && npm install && react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
